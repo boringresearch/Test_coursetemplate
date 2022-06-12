@@ -64,6 +64,7 @@ TBD-step-1-information
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. TBD-step-1-instructions.
+1. okay what does this mean
 1. Wait about 20 seconds then refresh this page for the next step.
 
 </details>
